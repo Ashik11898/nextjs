@@ -12,7 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <div>Mohamed ashik</div>
+        <div>Mohamed Ashik Owner of this site</div>
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
             Get started by editing{" "}
